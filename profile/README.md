@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/264800265?v=4" alt="Proofio" width="120" style="border-radius:20px" />
+  <img src="[https://avatars.githubusercontent.com/u/264800265?v=4](https://proofio.app/whitelogo.svg)" alt="Proofio" width="120" style="border-radius:20px" />
   <h1>Proofio</h1>
   <p><strong>Turn customer reviews into your competitive advantage.</strong></p>
   <a href="https://proofio.app"><img src="https://img.shields.io/badge/proofio.app-→-6366f1?style=flat-square" alt="Website" /></a>
